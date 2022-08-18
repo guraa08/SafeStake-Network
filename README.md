@@ -1,6 +1,6 @@
 # SafeStake-Network
 You need 32 Ropsten Eth 
-Faucet https://faucet.egorfine.com/ 
+- Faucet https://faucet.egorfine.com/ 
 
 1. Open https://testnet.safestake.xyz/
 2. Run Validator > direct to https://ropsten.launchpad.ethereum.org/en
