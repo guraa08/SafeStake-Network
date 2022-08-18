@@ -1,4 +1,4 @@
-# SafeStake-Network
+# SafeStake Network Validator
 You need 32 Ropsten Eth 
 - Faucet https://faucet.egorfine.com/ 
 
