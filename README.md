@@ -25,4 +25,4 @@ Faucet https://faucet.egorfine.com/
 19. Go to https://testnet.safestake.xyz/
 20. Import your keystore ,type your password when creating validator key
 21. Choose 4 operator ( its up to you ) > next > Run Validator
-22. Your validator is now running, you can shutdown your vps
+22. Your validator is now running, you can shutdown your vps or terminal
